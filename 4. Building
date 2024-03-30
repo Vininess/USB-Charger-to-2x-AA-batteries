@@ -1,1 +1,14 @@
 
+
+
+
+## Operations
+- **RED Light:** Charging the battery
+- **BLUE Light:** Fully Charged
+
+## _CAUTION_
+Avoid turning on the system while it is charging, as it never finishes charging.
+- The blue light does not turn on
+- The battery may be left charging indefinitely and may cause damage.
+
+**!!!Need better testing and evidence on this!!!**
